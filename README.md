@@ -1,0 +1,2 @@
+# chiyoda_barieer_free_wc_json
+東京都千代田区のバリアフリートイレの情報のJSONデータです。
