@@ -104,4 +104,7 @@ python compact_json.py json -o output_directory
 ## ライセンス
 
 このデータセットは、東京都のオープンデータとして公開されています。
+
 [車椅子使用者対応トイレのバリアフリー情報（令和５年度更新版） - CC BY](https://catalog.data.metro.tokyo.lg.jp/dataset/t000054d0000000342)
+
+© 東京都福祉局
